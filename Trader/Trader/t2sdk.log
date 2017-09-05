@@ -1,0 +1,20 @@
+[2017-08-29 18:44:25.912] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-29 18:44:26.303] CConnectionImpl::ProcessRegisterAns 连接注册成功：Connection:716
+[2017-08-29 19:40:50.987] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-29 19:40:51.253] CConnectionImpl::ProcessRegisterAns 连接注册成功：Connection:704
+[2017-08-29 19:42:35.403] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-29 19:42:35.731] CConnectionImpl::ProcessRegisterAns 连接注册成功：Connection:704
+[2017-08-29 19:45:13.130] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-29 19:45:13.398] CConnectionImpl::ProcessRegisterAns 连接注册成功：Connection:708
+[2017-08-30 09:37:06.823] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 09:38:05.859] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 09:38:11.628] CConnectionImpl::Close 连接关闭：Connection:696 status:6 port:56055 errno:0
+[2017-08-30 09:38:34.533] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 09:39:10.963] CConnectionImpl::Close 连接关闭：Connection:692 status:30 port:56059 errno:0
+[2017-08-30 09:46:27.919] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 09:50:24.403] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 09:50:55.272] CConnectionImpl::Close 连接关闭：Connection:696 status:30 port:56096 errno:0
+[2017-08-30 09:52:34.373] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 10:08:50.083] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 10:09:52.846] CConnectionImpl::Connect 连接上级 118.192.134.124:20008
+[2017-08-30 10:10:24.216] CConnectionImpl::Close 连接关闭：Connection:700 status:6 port:56130 errno:0
